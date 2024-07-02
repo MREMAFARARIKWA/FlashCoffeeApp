@@ -8,5 +8,5 @@ _ Online ordering
 _ Notifications when order is ready
 
 Development plans;
-_build a user friendly interface
+_build a user-friendly interface
 _Deploy the app
